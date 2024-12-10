@@ -1,0 +1,20 @@
+# Core dependencies
+websockets==11.0.3
+kafka-python==2.0.2
+python-dateutil==2.8.2
+python-json-logger==2.0.7
+
+# Data Analysis
+pandas==2.0.3
+numpy==1.24.3
+pyarrow==14.0.1  # For Parquet support
+
+# Web Framework
+fastapi==0.115.6
+uvicorn==0.32.1
+pydantic==2.10.3
+websocket-client==1.6.1
+
+# Visualization
+streamlit==1.29.0
+plotly==5.18.0
