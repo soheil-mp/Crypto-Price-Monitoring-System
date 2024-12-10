@@ -4,8 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&
-logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -13,6 +12,8 @@ logoColor=white)
 *Real-time cryptocurrency monitoring system with advanced analytics and intelligent alerts*
 
 ![Architecture](./docs/assets/architecture.png)
+
+![alt text](./docs/assets/streamlit.png)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [Contributing](#-contributing)
 
@@ -379,8 +380,6 @@ mkdir -p src/visualization
 # Start the Streamlit app
 python scripts/runners/run_streamlit.py
 ```
-
-![alt text](./docs/assets/streamlit.png)
 
 The Streamlit dashboard will be available at: http://localhost:8501
 
